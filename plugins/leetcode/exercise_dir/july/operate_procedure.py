@@ -1,6 +1,6 @@
 # !/usr/bin/python
 # coding: utf-8
-from year_21.july.july import JulyExerciseList
+from july import JulyExerciseList
 
 
 class OperateProcedure(object):
